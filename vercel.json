@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/terraform/plan", "destination": "/api/terraform/plan" }
+  ]
+}

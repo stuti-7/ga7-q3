@@ -1,0 +1,7 @@
+{
+  "name": "ga7-q3",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Terraform plan policy gate - POST /terraform/plan",
+  "main": "index.js"
+}
